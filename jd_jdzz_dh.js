@@ -13,7 +13,7 @@ cron:11 11 11 11 *
 ============Quantumultx===============
 [task_local]
 #京东赚赚兑换
-11 11 11 11 * jd_ty_help.js, tag=京东赚赚兑换, enabled=true
+11 11 11 11 * jd_jdzz_dh.js, tag=京东赚赚兑换, enabled=true
 */
 
 const $ = new Env('京东赚赚兑换');
