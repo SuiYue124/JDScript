@@ -2,13 +2,15 @@
 3.25-3.28 新风唤神州
 
 ————————————————
-暂时无水 等
+暂时无水 只有点亮过的能够瓜分 等看看能不能瓜分
 
-cron:31 5,16 25-28 3 *
+https://mpdz12-dz.isvjcloud.com/jdbeverage/pages/geLiChaoPin/index
+
+cron:1 1 1 1 *
 ============Quantumultx===============
 [task_local]
 #3.25-3.28 新风唤神州
-31 5,16 25-28 3 * jd_xf.js, tag=3.25-3.28 新风唤神州, enabled=true
+1 1 1 1 * jd_xfhsz.js, tag=3.25-3.28 新风唤神州, enabled=true
 
 */
 
