@@ -18,7 +18,7 @@
 ============Quantumultx===============
 [task_local]
 #大牌联合0325期
-1 1 1 1 * jd_dplh0322.js, tag=大牌联合0325期, enabled=true
+1 1 1 1 * jd_dplh0325.js, tag=大牌联合0325期, enabled=true
 */
 let opencard_toShop = "false"
 const $ = new Env("大牌联合0325期");
