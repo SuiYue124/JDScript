@@ -15,10 +15,12 @@
 
 第一个账号助力作者 其他依次助力CK1
 注意：第一个CK黑号会全部助力所填写的助力码
+
+cron:1 1 1 1 *
 ============Quantumultx===============
 [task_local]
 #大牌联合0414期
-1 1 1 1 * jd_dplh0411.js, tag=大牌联合0414期, enabled=true
+1 1 1 1 * jd_dplh0414.js, tag=大牌联合0414期, enabled=true
 */
 let opencard_toShop = "false"
 const $ = new Env("大牌联合0414期");
