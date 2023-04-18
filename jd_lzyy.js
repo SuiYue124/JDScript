@@ -3,6 +3,8 @@
 
 第一个号火爆退出
 
+export opencard_draw="3"  抽奖次数
+
 cron:35 0,19 18-28 4 *
 ============Quantumultx===============
 [task_local]
